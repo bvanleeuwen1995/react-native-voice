@@ -158,4 +158,4 @@ class RCTVoice {
   }
 }
 
-export default new RCTVoice();
+export default RCTVoice;
